@@ -1,0 +1,11 @@
+facenet/dataset/aligned\Kevin\IMG_20190601_205105.png 641 1125 1654 2537
+facenet/dataset/aligned\Kevin\IMG_20190601_205111.png 559 1247 1093 1965
+facenet/dataset/aligned\Kevin\IMG_20190601_205117.png 867 1287 1828 2512
+facenet/dataset/aligned\Kevin\IMG_20190601_205120.png 765 1299 1697 2522
+facenet/dataset/aligned\Kevin\IMG_20190601_205154.png 610 1142 1750 2691
+facenet/dataset/aligned\Kevin\IMG_20190601_205157.png 490 1111 1615 2678
+facenet/dataset/aligned\Kevin\IMG_20190601_205203.png 818 884 1882 2321
+facenet/dataset/aligned\Kevin\IMG_20190601_205205.png 911 886 1943 2305
+facenet/dataset/aligned\Kevin\IMG_20190601_205210.png 584 1190 1736 2767
+facenet/dataset/aligned\Kevin\IMG_20190601_205213.png 734 871 1719 2067
+facenet/dataset/aligned\Kevin\IMG_20190601_205215.png 546 962 1545 2334

@@ -1,0 +1,10 @@
+facenet/dataset/aligned/Cristopher/IMG_20190605_204206.png 338 973 1387 2380
+facenet/dataset/aligned/Cristopher/IMG_20190605_204152.png 467 730 1457 2096
+facenet/dataset/aligned/Cristopher/IMG_20190605_204208.png 152 355 1530 2273
+facenet/dataset/aligned/Cristopher/IMG_20190605_204218.png 831 969 1893 2404
+facenet/dataset/aligned/Cristopher/IMG_20190605_204159.png 355 823 1428 2268
+facenet/dataset/aligned/Cristopher/IMG_20190605_204201.png 195 778 1270 2242
+facenet/dataset/aligned/Cristopher/IMG_20190605_204215.png 760 800 1605 1938
+facenet/dataset/aligned/Cristopher/IMG_20190605_204213.png 390 421 1511 1886
+facenet/dataset/aligned/Cristopher/IMG_20190605_204155.png 701 747 1667 2024
+facenet/dataset/aligned/Cristopher/IMG_20190605_204204.png 428 791 1334 1998

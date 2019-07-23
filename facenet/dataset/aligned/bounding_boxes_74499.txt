@@ -1,0 +1,5 @@
+facenet/dataset/aligned/Kevin/IMG_20190603_200412.png 0 368 1713 2814
+facenet/dataset/aligned/Kevin/IMG_20190603_200446.png 681 1093 2209 3159
+facenet/dataset/aligned/Kevin/IMG_20190603_200429.png 629 584 1940 2182
+facenet/dataset/aligned/Kevin/IMG_20190603_200402.png 286 439 1955 2843
+facenet/dataset/aligned/Kevin/IMG_20190603_200433.png 395 581 1741 2363
